@@ -43,7 +43,7 @@ results = [
     {stratified_custom_window_results, 'Stratified sampling - custom window'};
     {importance_results, 'Importance sampling'};
     {anthitetic_results, 'Anthitetic'};
-    ];
+];
 
 for i=1:length(results)
     figure1 = figure;
@@ -51,5 +51,7 @@ for i=1:length(results)
     histogram(results{i,1},'DisplayName',results{i,2},'Normalization','probability');
     xlim([0.2 0.3]);
     legend(axes1,'show');
+    xlabel('I_n');
+    ylabel('P(I_n)');
     saveas(figure1,[results{i,2},'.png'])
 end
