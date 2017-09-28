@@ -12,10 +12,10 @@
 ![alt tag](https://raw.github.com/b3rnoulli/monte-carlo-integrals/master/pictures/Hit_or_miss.png)
 
 ## Stratified sampling method - equal windows
-![alt tag](https://raw.github.com/b3rnoulli/monte-carlo-integrals/master/pictures/Stratified_sampling_equal_window.png)
+![alt tag](https://raw.github.com/b3rnoulli/monte-carlo-integrals/master/pictures/Stratified_sampling_equal_windows.png)
 
 ## Stratified sampling method - custom windows
-![alt tag](https://raw.github.com/b3rnoulli/monte-carlo-integrals/master/pictures/Stratified_sampling_custom_windows.png)
+![alt tag](https://raw.github.com/b3rnoulli/monte-carlo-integrals/master/pictures/Stratified_sampling_custom_window.png)
 
 ## Importance sampling method - sampling function 
 ![alt tag](https://raw.github.com/b3rnoulli/monte-carlo-integrals/master/pictures/Importance_sampling.png)
