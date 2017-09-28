@@ -33,4 +33,15 @@ Integral ```x^3 ``` in limits from ```0``` to ```1``` was solved using mentioned
 ![alt tag](https://raw.github.com/b3rnoulli/monte-carlo-integrals/master/pictures/Anthitetic.png)
 
 
-## Results standard deviation and 
+## Results summary
+
+| Method  | Result | Standard deviation | Sigma | 
+| ------------- | ------------- | ------------- | ------------- |
+| Crude  | 0.24993 | 0.0062573 | 0.0028337 |
+| Hit or miss  | 0.24998 | 0.0096738 | 0.0043289 | 
+| Stratified sampling - equal window  | 0.24998 | 0.0040786 | 2.0156e-05 |
+| Stratified sampling - custom window | 0.24997 | 0.0030311 | 1.3449e-05 |
+| Importance sampling  | 0.25001 | 0.0014414 | 0.0006451 |
+| Anthitetic sampling  | 0.25006 | 0.0035233 | 0.0029586 |
+
+
