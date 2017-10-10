@@ -7,7 +7,6 @@ Matlab scripts for solving 1D integrals using following methods:
 * importance sampling
 * anthitetic sampling
 
-Below re
 
 ## Results
 
